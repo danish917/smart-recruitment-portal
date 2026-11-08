@@ -1,0 +1,27 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Python & Backend
+backend/venv/
+backend/.venv/
+backend/uploads/
+uploads/
+**/__pycache__/
+**/*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+# Environment Variables
+.env
+.env.*
+.env*.local
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# Neon & Node
+.neon
+node_modules/
+
